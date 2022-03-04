@@ -1,0 +1,24 @@
+.navbar a {
+    text-decoration: none;
+    color: #666666;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+    
+};
+
+.navbar {
+    
+    background-color: blue;
+}
+
+
+
+.navbar a:hover {
+    color: #1a1a1a;
+}
+
+
+.logoText {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px !important;
+    color:black;
+}

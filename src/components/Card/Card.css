@@ -1,0 +1,16 @@
+.btnStyle {
+    background-color: black;
+    border: none;
+}
+
+
+
+.cardStyle {
+    
+    box-shadow: '5px 5px 5px #666666';
+    color: "#666666"
+}
+
+.cardStyle button:hover {
+    background-color: blueviolet;
+}
